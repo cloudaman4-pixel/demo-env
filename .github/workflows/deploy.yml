@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: cluster0
+      MONGODB_CLUSTER_ADDRESS: cluster0.b5rflqh.mongodb.net
       MONGODB_USERNAME: env-github-action
       MONGODB_PASSWORD: XnpINpaV6wmJjb6T
       PORT: 8080
